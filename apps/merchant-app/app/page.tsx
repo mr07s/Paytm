@@ -7,7 +7,7 @@ export default function () {
   // const balance = useBalance();
   return (
     <div>
-      hi there
+      hi there hi there hi there hi there
       <div>hi there</div>;
     </div>
   );
